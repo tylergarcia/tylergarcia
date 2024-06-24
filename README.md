@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+
+### About me:
+
+Engineering Phsyics student at University of Central Oklahoma
+Currently learning Calculus and wanting to use code as a way to learn math from a different angle. 
+
+Interested in working on:
+
+  - Physics simulations
+  - Computer vision
+  - Audio processing
 
 <!--
 **tylergarcia/tylergarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
