@@ -3,13 +3,13 @@
 ### About me:
 
 Engineering Phsyics student at University of Central Oklahoma
-Currently learning Calculus and wanting to use code as a way to learn math from a different angle. 
+Currently learning differential equations and wanting to work on particle physics simulations
 
 Interested in working on:
 
-  - Physics simulations
-  - Computer vision
-  - Audio processing
+  - Nuclear physics
+  - Assembly theory
+
 
 <!--
 **tylergarcia/tylergarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
