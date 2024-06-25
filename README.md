@@ -2,10 +2,10 @@
 
 ### About me:
 
-Engineering Phsyics student at University of Central Oklahoma
-Currently learning Calculus and wanting to use code as a way to learn math from a different angle. 
+I am an Engineering Phsyics student at the University of Central Oklahoma.
+I am currently learning Calculus and wanting to use code as a way to learn math from a different angle. 
 
-Interested in working on:
+I am interested in working on:
 
   - Physics simulations
   - Computer vision
